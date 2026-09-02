@@ -1,0 +1,209 @@
+{
+  "alphabet_drills": [
+    {
+      "id": 1,
+      "letter": "A",
+      "prompt": "Show the sign for letter: A",
+      "hint": "Make a closed fist with your thumb resting upright along the outer side of your index finger.",
+      "xp": 15
+    },
+    {
+      "id": 2,
+      "letter": "B",
+      "prompt": "Show the sign for letter: B",
+      "hint": "Hold all 4 fingers straight up together, with your thumb folded flat across your palm.",
+      "xp": 15
+    },
+    {
+      "id": 3,
+      "letter": "C",
+      "prompt": "Show the sign for letter: C",
+      "hint": "Curve all 4 fingers and your thumb to form the physical curved shape of the letter 'C'.",
+      "xp": 15
+    },
+    {
+      "id": 4,
+      "letter": "D",
+      "prompt": "Show the sign for letter: D",
+      "hint": "Point your index finger straight up, while touching your thumb tip to middle, ring, and pinky tips.",
+      "xp": 15
+    },
+    {
+      "id": 5,
+      "letter": "E",
+      "prompt": "Show the sign for letter: E",
+      "hint": "Curl all your fingertips tightly down towards your palm, with your thumb tucked across underneath.",
+      "xp": 15
+    },
+    {
+      "id": 6,
+      "letter": "F",
+      "prompt": "Show the sign for letter: F",
+      "hint": "Touch your index fingertip and thumb tip into a circle ('OK' sign), while keeping the other 3 fingers straight up.",
+      "xp": 15
+    },
+    {
+      "id": 7,
+      "letter": "G",
+      "prompt": "Show the sign for letter: G",
+      "hint": "Point your index finger and thumb horizontally to the side, parallel to each other like a pinch.",
+      "xp": 15
+    },
+    {
+      "id": 8,
+      "letter": "H",
+      "prompt": "Show the sign for letter: H",
+      "hint": "Extend both your index and middle fingers together horizontally to the side, thumb tucked.",
+      "xp": 15
+    },
+    {
+      "id": 9,
+      "letter": "I",
+      "prompt": "Show the sign for letter: I",
+      "hint": "Make a closed fist and extend only your pinky finger pointing straight up.",
+      "xp": 15
+    },
+    {
+      "id": 10,
+      "letter": "K",
+      "prompt": "Show the sign for letter: K",
+      "hint": "Point your index finger straight up, extend your middle finger forward at a 45-degree angle, with your thumb resting between them.",
+      "xp": 15
+    },
+    {
+      "id": 11,
+      "letter": "L",
+      "prompt": "Show the sign for letter: L",
+      "hint": "Extend your thumb and index finger outward at a 90-degree angle to form an 'L' shape.",
+      "xp": 15
+    },
+    {
+      "id": 12,
+      "letter": "M",
+      "prompt": "Show the sign for letter: M",
+      "hint": "Make a fist and tuck your thumb under your first three fingers (index, middle, ring), so only the thumb tip peeks out.",
+      "xp": 15
+    },
+    {
+      "id": 13,
+      "letter": "N",
+      "prompt": "Show the sign for letter: N",
+      "hint": "Make a fist and tuck your thumb under your first two fingers (index and middle).",
+      "xp": 15
+    },
+    {
+      "id": 14,
+      "letter": "O",
+      "prompt": "Show the sign for letter: O",
+      "hint": "Curve all your fingers down to touch your thumb tip, forming a complete 'O' circle.",
+      "xp": 15
+    },
+    {
+      "id": 15,
+      "letter": "P",
+      "prompt": "Show the sign for letter: P",
+      "hint": "Make the 'K' sign shape, but point your wrist and fingers downwards towards the floor.",
+      "xp": 15
+    },
+    {
+      "id": 16,
+      "letter": "Q",
+      "prompt": "Show the sign for letter: Q",
+      "hint": "Make the 'G' sign shape, but point your index finger and thumb downwards towards the floor.",
+      "xp": 15
+    },
+    {
+      "id": 17,
+      "letter": "R",
+      "prompt": "Show the sign for letter: R",
+      "hint": "Cross your middle finger over your index finger (the 'fingers crossed' / good luck sign).",
+      "xp": 15
+    },
+    {
+      "id": 18,
+      "letter": "S",
+      "prompt": "Show the sign for letter: S",
+      "hint": "Make a tight fist with your thumb folded firmly across the front of your other fingers.",
+      "xp": 15
+    },
+    {
+      "id": 19,
+      "letter": "T",
+      "prompt": "Show the sign for letter: T",
+      "hint": "Make a fist and tuck your thumb between your index and middle fingers.",
+      "xp": 15
+    },
+    {
+      "id": 20,
+      "letter": "U",
+      "prompt": "Show the sign for letter: U",
+      "hint": "Extend your index and middle fingers straight up together, touching each other.",
+      "xp": 15
+    },
+    {
+      "id": 21,
+      "letter": "V",
+      "prompt": "Show the sign for letter: V",
+      "hint": "Extend your index and middle fingers in a 'V' / Peace sign shape, spread apart.",
+      "xp": 15
+    },
+    {
+      "id": 22,
+      "letter": "W",
+      "prompt": "Show the sign for letter: W",
+      "hint": "Extend your index, middle, and ring fingers straight up in a 'W' shape, holding your pinky down with your thumb.",
+      "xp": 15
+    },
+    {
+      "id": 23,
+      "letter": "X",
+      "prompt": "Show the sign for letter: X",
+      "hint": "Make a fist and crook your index finger like a small hook.",
+      "xp": 15
+    },
+    {
+      "id": 24,
+      "letter": "Y",
+      "prompt": "Show the sign for letter: Y",
+      "hint": "Extend only your thumb and pinky finger out (the 'hang loose' / Shaka sign).",
+      "xp": 15
+    }
+  ],
+  "word_challenges": [
+    {
+      "id": 101,
+      "word": "CAT",
+      "letters": ["C", "A", "T"],
+      "hint": "A common friendly domestic feline pet.",
+      "xp": 45
+    },
+    {
+      "id": 102,
+      "word": "DOG",
+      "letters": ["D", "O", "G"],
+      "hint": "A loyal domestic canine pet.",
+      "xp": 45
+    },
+    {
+      "id": 103,
+      "word": "ABUJA",
+      "letters": ["A", "B", "U", "A"],
+      "hint": "The federal capital city of Nigeria.",
+      "xp": 60
+    },
+    {
+      "id": 104,
+      "word": "BOLA",
+      "letters": ["B", "O", "L", "A"],
+      "hint": "A popular Nigerian given name.",
+      "xp": 50
+    },
+    {
+      "id": 105,
+      "word": "LOVE",
+      "letters": ["L", "O", "V", "E"],
+      "hint": "A universal feeling of affection and care.",
+      "xp": 50
+    }
+  ]
+}
