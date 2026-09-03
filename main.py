@@ -410,7 +410,7 @@ def render_live_camera_html(target_letter, module_type="alphabet"):
             const successBanner = document.getElementById('success-banner');
 
             let holdCount = 0;
-            const REQUIRED_HOLD = 14;
+            const REQUIRED_HOLD = 18;
             let isCompleted = false;
             let predBuffer = [];
 
@@ -629,7 +629,7 @@ def render_live_camera_html(target_letter, module_type="alphabet"):
                         }}
                     }}
 
-                    if (topLetter === TARGET_LETTER && pred.conf >= 45) {{
+                    if (topLetter === TARGET_LETTER && pred.conf >= 55) {{
                         holdCount++;
                         const pct = Math.min(100, Math.round((holdCount / REQUIRED_HOLD) * 100));
                         statusBar.innerHTML = `🎯 <span style="color: #10b981;">VERIFYING [${{TARGET_LETTER}}]: ${{pct}}%</span>`;
@@ -642,7 +642,7 @@ def render_live_camera_html(target_letter, module_type="alphabet"):
                                 window.parent.postMessage({{ type: "asl_verified", letter: TARGET_LETTER }}, "*");
                                 const btn = window.parent.document.querySelector("button[kind='primary']");
                                 if (btn) btn.click();
-                            }}, 1200);
+                            }}, 300);
                         }}
                     }} else {{
                         holdCount = 0;
